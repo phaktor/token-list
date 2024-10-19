@@ -121048,9 +121048,20 @@
       "chainId": 101,
       "address": "CWy42AVkx8jj39Jnb6A2ChupCNcsoqdsiRCYHh3XuREj",
       "symbol": "NXTK",
-      "name": "NxtTek",
+      "name": "NextTek",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/phaktor/crypto/main/logo.png",
+      "logoURI": "https://github.com/phaktor/crypto/blob/19fe7662ac33e37790fbf042268f7c133d585aff/logo.png?raw=true",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "6ita9Q7GptLn23HGcW81WPE4xfbLigpj7sqXKB5Hu3vh",
+      "symbol": "NXTK",
+      "name": "NextTek",
+      "decimals": 0,
+      "logoURI": "https://github.com/phaktor/crypto/blob/19fe7662ac33e37790fbf042268f7c133d585aff/logo.png?raw=true",
       "tags": [
         "social-token"
       ]
